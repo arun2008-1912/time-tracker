@@ -1,5 +1,5 @@
-# time-tracker
+# Time-Tracker
 Java (Maven) application for tracking time on the job
 
-#Time tracker
-Causing trouble
+#Purpose
+Maven example for various training purposes
